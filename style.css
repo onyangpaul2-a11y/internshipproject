@@ -1,0 +1,64 @@
+li{
+    
+padding: 8%;
+display: inline-flex;
+font-size: 18px;
+}
+
+a{
+    color: antiquewhite;
+    text-decoration: none;
+font-weight: bolder;
+
+}
+nav{
+    background-color:darkblue;
+    width: 40%;
+    border-radius: 45%;
+}
+img{
+border-radius: 15px;
+margin: auto;
+}
+header{
+    display: flex;
+    gap:100px;
+}
+.reach{
+    color: darkblue;
+    padding:5%;
+    width: 45%;
+}
+.container{
+    border: 1px solid;
+    width:20%;
+    border-radius: 5%;
+    box-shadow: 50%;
+    background-color: whitesmoke;
+padding: 20PX;
+    color: darkblue;
+    
+
+}
+label{
+    font-weight: bold;
+}
+input{
+    padding: 2%;
+    width: 60%;
+    box-shadow: 20%;
+}
+textarea{
+    padding: 5%;
+}
+button{
+    background-color: green;
+    padding: 2%;
+    border-radius: 15%;
+}
+div{
+    float:left;
+    padding: 30%;
+
+    
+}
